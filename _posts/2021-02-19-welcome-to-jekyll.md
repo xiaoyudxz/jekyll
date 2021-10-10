@@ -11,6 +11,6 @@ categories: jekyll update
 
 知道为什么我的网站图标是这个吗？
 
-![](https://xiaoyudxz.vercel.app/favicon.png)
+![](https://xiaoyudxz.vercel.app/favicon.ico)
 
 因为为了防止老师发现！（弱弱）
