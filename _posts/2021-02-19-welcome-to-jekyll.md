@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Welcome to Jekyll!'
-date: 2021-02-19 23:17:16 +0000
+title: '欢迎来到小于的博客！'
+date: 2021-10-10 00:00:00 +0000
 categories: jekyll update
 ---
 
