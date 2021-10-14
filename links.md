@@ -11,3 +11,11 @@ permalink: /links/
 [学习之父](https://www.studyingfather.com)
 
 明天再加一点
+
+
+
+
+
+
+
+<https://img.ams1.imgbed.xyz/2021/10/14/ZahtU.png>
