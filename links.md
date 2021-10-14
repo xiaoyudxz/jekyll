@@ -16,6 +16,3 @@ permalink: /links/
 
 
 
-
-
-<https://img.ams1.imgbed.xyz/2021/10/14/ZahtU.png>
