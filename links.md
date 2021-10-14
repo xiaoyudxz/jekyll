@@ -4,7 +4,7 @@ title: 链接
 permalink: /links/
 ---
 
-[孟坤博客](https://www.mkblog.com)
+[孟坤博客](https://www.mkblog.cn)
 
 [黑果小屋](https://blog.bfh.ink)
 
