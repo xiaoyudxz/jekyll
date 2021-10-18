@@ -7,10 +7,10 @@ categories: jekyll update
 
 欢迎来到小于的博客！
 
-[我的网站](https://xiaoyudxz.vercel.app)
+[我的网站](https://web.xiaoyudxz.vercel.app)
 
 知道为什么我的网站图标是这个吗？
 
-![](https://xiaoyudxz.vercel.app/favicon.ico)
+![](https://web.xiaoyudxz.vercel.app/favicon.ico)
 
 因为为了防止老师发现！（弱弱）
