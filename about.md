@@ -11,7 +11,10 @@ Copyright XiaoYuBlog (C)
 Copyright XiaoYudxz (C)
 
 [小于的API](https://api.xiaoyudxz.vercel.app) (R)
-Copyright XiaoYudxz (C)
+Copyright XiaoYuAPI (C)
+
+[小于的DL](https://dl.xiaoyudxz.vercel.app) (R)
+Copyright XiaoYuDL (C)
 
 到现在，已经有![](https://www.hit-counts.com/counter.php?t=MTQ1OTYxMQ==)人看到了我的小站或者博客！感谢大家！
 
